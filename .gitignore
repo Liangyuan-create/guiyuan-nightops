@@ -1,0 +1,4 @@
+audit-local/
+*.tmp
+.DS_Store
+Thumbs.db
